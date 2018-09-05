@@ -19,4 +19,15 @@ mrjob required for MapReduce, found and issue with the newest version and file a
 
 or
 
-* python main.py input\titanic.csv
+* python main.py input\titanic.csv -o output\
+
+## Output
+
+Two files:
+part-00000
+-> boarded-female	314
+-> boarded-male	577
+
+part-00001
+-> survived-female	233
+-> survived-male	109

@@ -2,4 +2,4 @@ clean:
 	del output\*.txt
 	
 run:	
-	python main.py input\titanic.csv
+	python main.py input\titanic.csv -o output\
