@@ -25,9 +25,9 @@ or
 
 Two files:
 part-00000
--> boarded-female	314
--> boarded-male	577
+* boarded-female	314
+* boarded-male	577
 
 part-00001
--> survived-female	233
--> survived-male	109
+* survived-female	233
+* survived-male	109
