@@ -1,6 +1,6 @@
 # MIT805 MapReduce Example
 
-Python example for the MIT805 Titanic MapReduce program.
+Python example converted from Java for the MIT805 Titanic MapReduce program.
 Works on Windows/Linux with Python > 3.x
 
 ## Requirements
